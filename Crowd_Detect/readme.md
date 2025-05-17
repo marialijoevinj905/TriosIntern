@@ -102,7 +102,9 @@ python detect.py --video dataset_video.mp4 --output output.mp4 --results_csv fra
 * scikit-learn
 * ultralytics
 
-````
 
 
+## 👤 Author
 
+**Maria Lijoevin J**
+GitHub: [@yourusername](https://github.com/marialijoevinj905)
