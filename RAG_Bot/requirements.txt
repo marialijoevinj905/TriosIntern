@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_community
+langchain_core
+faiss-cpu
+scikit-learn
+numpy
+huggingface_hub
+pypdf
+python-docx
+unstructured
