@@ -1,4 +1,3 @@
-````markdown
 # Crowd Detection using YOLOv8 and DBSCAN
 
 This project detects and tracks crowds in videos using a YOLOv8 object detection model combined with DBSCAN clustering. It identifies "crowd events" when multiple people are found in close proximity over consecutive frames and logs these events to a CSV file.
