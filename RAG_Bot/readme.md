@@ -108,4 +108,7 @@ MIT License
 * [Hugging Face](https://huggingface.co/)
 * Various open-source libraries and community contributions
 
+## 👤 Author
 
+**Maria Lijoevin J**
+GitHub: [marialijoevinj905](https://github.com/marialijoevinj905)
